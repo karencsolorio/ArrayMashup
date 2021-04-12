@@ -1,0 +1,13 @@
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 8 - November 9, 2020\Array Mashup\Array Mashup\bin\Debug\netcoreapp3.1\Array Mashup.exe
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 8 - November 9, 2020\Array Mashup\Array Mashup\bin\Debug\netcoreapp3.1\Array Mashup.deps.json
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 8 - November 9, 2020\Array Mashup\Array Mashup\bin\Debug\netcoreapp3.1\Array Mashup.runtimeconfig.json
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 8 - November 9, 2020\Array Mashup\Array Mashup\bin\Debug\netcoreapp3.1\Array Mashup.runtimeconfig.dev.json
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 8 - November 9, 2020\Array Mashup\Array Mashup\bin\Debug\netcoreapp3.1\Array Mashup.dll
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 8 - November 9, 2020\Array Mashup\Array Mashup\bin\Debug\netcoreapp3.1\Array Mashup.pdb
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 8 - November 9, 2020\Array Mashup\Array Mashup\obj\Debug\netcoreapp3.1\Array Mashup.csprojAssemblyReference.cache
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 8 - November 9, 2020\Array Mashup\Array Mashup\obj\Debug\netcoreapp3.1\Array Mashup.AssemblyInfoInputs.cache
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 8 - November 9, 2020\Array Mashup\Array Mashup\obj\Debug\netcoreapp3.1\Array Mashup.AssemblyInfo.cs
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 8 - November 9, 2020\Array Mashup\Array Mashup\obj\Debug\netcoreapp3.1\Array Mashup.csproj.CoreCompileInputs.cache
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 8 - November 9, 2020\Array Mashup\Array Mashup\obj\Debug\netcoreapp3.1\Array Mashup.dll
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 8 - November 9, 2020\Array Mashup\Array Mashup\obj\Debug\netcoreapp3.1\Array Mashup.pdb
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 8 - November 9, 2020\Array Mashup\Array Mashup\obj\Debug\netcoreapp3.1\Array Mashup.genruntimeconfig.cache
